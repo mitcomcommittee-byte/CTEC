@@ -1,0 +1,6 @@
+{
+  "name": "CTEC Transparency Portal",
+  "description": "Official transparency website of the College of Teacher Education Council (CTEC), Batangas State University – The National Engineering University, ARASOF-Nasugbu Campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
